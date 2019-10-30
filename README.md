@@ -1,4 +1,4 @@
-# Independent-project-wk2
+# Calculator project wk2
 ## Description.
 Second week project, This is a project that runs a calculato with the basic operetions of addition, subtraction, multiplication and division functionalities.
 ## Author 
